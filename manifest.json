@@ -1,0 +1,43 @@
+﻿{
+    "generation":  1,
+    "patch":  1,
+    "minLauncherVersion":  "1.0.0",
+    "releasedAt":  "2026-08-15T19:53:15.2895296Z",
+    "notes":  "Upgrade patch 1",
+    "connection":  {
+                       "serverIp":  "100.68.150.63",
+                       "serverPort":  44406
+                   },
+    "fullZip":  {
+                    "url":  "https://mega.nz/file/gMohiTBI#x9PrgamgmS5cvtOCOqBWecKKWcnRyFw1hRb_DAaGqWU",
+                    "sha256":  "2cab416750638866f78def0463897e643590621d1da1e82ae9fc495e1b792995",
+                    "size":  655683144
+                },
+    "files":  [
+                  {
+                      "path":  "glew32.dll",
+                      "sha256":  "a0822f6b1272689be78221a1b19054007c3f500dc584648a314301e8095d4284",
+                      "size":  424960
+                  },
+                  {
+                      "path":  "Main.exe",
+                      "sha256":  "c6505550ceae6ddb5da5bc7b61ba55e3435365f3c437b8bd8abe71f4f374364d",
+                      "size":  10799616
+                  },
+                  {
+                      "path":  "MUnique.Client.Library.dll",
+                      "sha256":  "059a7944cb1f012ea5eae241bafac1e376898b728446ea7d620e5a687face3a4",
+                      "size":  2690560
+                  },
+                  {
+                      "path":  "ogg.dll",
+                      "sha256":  "e6a3deeebe9de112a9a0c0c456a15e7f6cbae0af5d859932bdc5ff1ad9cfa60e",
+                      "size":  53248
+                  },
+                  {
+                      "path":  "vorbisfile.dll",
+                      "sha256":  "525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055",
+                      "size":  999424
+                  }
+              ]
+}
