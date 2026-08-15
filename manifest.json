@@ -1,4 +1,4 @@
-﻿{
+{
     "generation":  1,
     "patch":  1,
     "minLauncherVersion":  "1.0.0",
@@ -9,7 +9,7 @@
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://mega.nz/file/gMohiTBI#x9PrgamgmS5cvtOCOqBWecKKWcnRyFw1hRb_DAaGqWU",
+                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-1/client-full.zip",
                     "sha256":  "2cab416750638866f78def0463897e643590621d1da1e82ae9fc495e1b792995",
                     "size":  655683144
                 },
