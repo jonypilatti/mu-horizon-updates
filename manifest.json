@@ -1,17 +1,17 @@
 {
     "generation":  1,
-    "patch":  4,
+    "patch":  5,
     "minLauncherVersion":  "1.1.0",
-    "releasedAt":  "2026-08-16T17:51:11.6060500Z",
-    "notes":  "Upgrade patch 4",
+    "releasedAt":  "2026-08-16T22:55:03.0305064Z",
+    "notes":  "Upgrade patch 5",
     "connection":  {
                        "serverIp":  "100.68.150.63",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-4/client-full.zip",
-                    "sha256":  "3010caee86fbb45cd7cfb1f82bddad0002905de7c33c9e865d489a41d47e34f3",
-                    "size":  862777535
+                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-5/client-full.zip",
+                    "sha256":  "30625534255ebf85c96b7ff95a871b5bd4de50fd1d6af4f4efcb4517672f0403",
+                    "size":  862780862
                 },
     "files":  [
                   {
@@ -26,12 +26,12 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "32bdd4c39d5aaa5077b2d062cbbafebf59165a490a1636e97d5aa96827dc88e4",
-                      "size":  10816512
+                      "sha256":  "186548a94f11b9fd1402790f96c270dd57db552fb203a5dd21a7cd451091f927",
+                      "size":  10824704
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "59c66c08fb6a469ba1385945b1d1b536de59e0fe511f80f4c9ed31d0120a4a7d",
+                      "sha256":  "f26e8d11586e7b055f99d8c3ae4fb32e695a0d12009c9380404e2b812fc490c1",
                       "size":  2691584
                   },
                   {
@@ -46,8 +46,8 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-4/client-patch.zip",
-                     "sha256":  "afa5fce56e77f3c11850ba66f35db4edb8011556521671130ef4f3f317348591",
-                     "size":  5455362
+                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-5/client-patch.zip",
+                     "sha256":  "d8e99ee9ac3e8b76c1a226e3e0d1140c0e5d1a5ec11ba50a8fb14d568a4fda3b",
+                     "size":  5454757
                  }
 }
