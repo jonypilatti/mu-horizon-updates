@@ -1,17 +1,17 @@
 {
     "generation":  1,
-    "patch":  8,
+    "patch":  9,
     "minLauncherVersion":  "1.1.0",
-    "releasedAt":  "2026-08-17T02:06:30.6620261Z",
-    "notes":  "Upgrade patch 8",
+    "releasedAt":  "2026-08-17T02:46:03.8128038Z",
+    "notes":  "Upgrade patch 9",
     "connection":  {
                        "serverIp":  "100.68.150.63",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-8/client-full.zip",
-                    "sha256":  "4fe7d8f007c2fb5b3360acc9561d1c693a9d3d40d9e687724f31c6edea1e0f44",
-                    "size":  862782964
+                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-9/client-full.zip",
+                    "sha256":  "f156e6e11842b3bd3c34e006ee56060f2537be83b163c8ba454fff4caf788215",
+                    "size":  862783502
                 },
     "files":  [
                   {
@@ -26,8 +26,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "9a906c2ad54d5ee6196f637971b27d80a4f6ba7a50bebf5dd9c5e81ea7ecb4d4",
-                      "size":  10827776
+                      "sha256":  "94b2b0d0cf16b23ca99b4c48a8945aff789fa89353810b4b7f5ff0f4dcf8fd3c",
+                      "size":  10829312
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -46,8 +46,8 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-8/client-patch.zip",
-                     "sha256":  "92f422947048822c537ad8e90fa33b45ac5a2b11bcdac2337c4413e89e309d7d",
-                     "size":  5455791
+                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-9/client-patch.zip",
+                     "sha256":  "db681355ea957cd4715c4d610820e12d98f2005bfb6620040eb6a0fb86ec08a9",
+                     "size":  4115440
                  }
 }
