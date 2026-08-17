@@ -48,6 +48,9 @@
     "patchZip":  {
                      "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-patch.zip",
                      "sha256":  "e41c9f03a4a7d1e5e908fe14d019f1133f929ec59a9bac8663e746abcc411683",
-                     "size":  4130959
+                     "size":  4130959,
+                     "urls":  [
+                                  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-patch.zip"
+                              ]
                  }
 }
