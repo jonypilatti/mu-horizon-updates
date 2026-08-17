@@ -9,9 +9,12 @@
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-full.zip",
+                    "url":  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-full.zip",
                     "sha256":  "7b0e3c892524cd114659c13999c0aeb40ed1e5749e15d4b7cd7e191f3db6aac2",
-                    "size":  864503606
+                    "size":  864503606,
+                    "urls":  [
+                                 "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-full.zip"
+                             ]
                 },
     "files":  [
                   {
@@ -46,11 +49,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-patch.zip",
+                     "url":  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-patch.zip",
                      "sha256":  "e41c9f03a4a7d1e5e908fe14d019f1133f929ec59a9bac8663e746abcc411683",
                      "size":  4130959,
                      "urls":  [
-                                  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-patch.zip"
+                                  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-patch.zip"
                               ]
                  }
 }
