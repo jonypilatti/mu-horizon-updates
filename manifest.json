@@ -1,17 +1,17 @@
 {
     "generation":  1,
-    "patch":  7,
+    "patch":  8,
     "minLauncherVersion":  "1.1.0",
-    "releasedAt":  "2026-08-17T01:18:08.0450387Z",
-    "notes":  "Upgrade patch 7",
+    "releasedAt":  "2026-08-17T02:06:30.6620261Z",
+    "notes":  "Upgrade patch 8",
     "connection":  {
                        "serverIp":  "100.68.150.63",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-7/client-full.zip",
-                    "sha256":  "b2633dcdcb33387cd4a6acd772d5360aaf064023c927d844398b42df757d028c",
-                    "size":  862783084
+                    "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-8/client-full.zip",
+                    "sha256":  "4fe7d8f007c2fb5b3360acc9561d1c693a9d3d40d9e687724f31c6edea1e0f44",
+                    "size":  862782964
                 },
     "files":  [
                   {
@@ -26,12 +26,12 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "1fcf37ac592a8218cb6162a41d46fdd180584c56aca68461e094237e22366926",
+                      "sha256":  "9a906c2ad54d5ee6196f637971b27d80a4f6ba7a50bebf5dd9c5e81ea7ecb4d4",
                       "size":  10827776
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "f26e8d11586e7b055f99d8c3ae4fb32e695a0d12009c9380404e2b812fc490c1",
+                      "sha256":  "83c9909344eba0fd76a056106af097bec0a383f88613862b4a3f4928c60bccee",
                       "size":  2691584
                   },
                   {
@@ -46,8 +46,8 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-7/client-patch.zip",
-                     "sha256":  "6230f617d07b192554ca5357ed9a6d2e6802a3dc8dc6a2cda6fd820941fd3593",
-                     "size":  4107356
+                     "url":  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-8/client-patch.zip",
+                     "sha256":  "92f422947048822c537ad8e90fa33b45ac5a2b11bcdac2337c4413e89e309d7d",
+                     "size":  5455791
                  }
 }
