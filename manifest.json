@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  12,
+    "patch":  13,
     "minLauncherVersion":  "1.1.0",
-    "releasedAt":  "2026-08-17T20:26:13.8996599Z",
-    "notes":  "Upgrade patch 12",
+    "releasedAt":  "2026-08-17T21:28:40.6041518Z",
+    "notes":  "Upgrade patch 13",
     "connection":  {
                        "serverIp":  "100.68.150.63",
                        "serverPort":  44406
                    },
     "fullZip":  {
                     "url":  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-full.zip",
-                    "sha256":  "e1ac00bba480e8563395d632aa876802a1339d591a443aa7201f2916a067361f",
-                    "size":  864578696,
+                    "sha256":  "921b2407d6f1be0e0fecb3d97bb7cc61c59143e9246e07d9000cba36bdd2fea7",
+                    "size":  910961021,
                     "urls":  [
-                                 "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-12/client-full.zip"
+                                 "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-13/client-full.zip"
                              ]
                 },
     "files":  [
@@ -29,13 +29,13 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "580ca760c46f29e243d19f56684cfef5e37eca0f9180c10c6a2b9fbf46e2a370",
-                      "size":  10866688
+                      "sha256":  "cbe31060f8f8efa32aeef9eaae2ea673b0ee648f38a9c64fbbbfe7d28abb5570",
+                      "size":  10876416
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "08b9e7dc82c113c5501de04af7acd3912e8cf99a900acaf212b7f0db6ee22a14",
-                      "size":  2696704
+                      "sha256":  "84d0d6519bfbdbd38f4a98c31827c11bfa622ba2ee11c859066bf2cfc7099e2b",
+                      "size":  2698752
                   },
                   {
                       "path":  "ogg.dll",
@@ -50,10 +50,10 @@
               ],
     "patchZip":  {
                      "url":  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-patch.zip",
-                     "sha256":  "bd79d08db2f89faa9929fede83e710f07348b0cf7ab37d920f5466f4e2e0831b",
-                     "size":  5984034,
+                     "sha256":  "4120b09f6c396e6b4e50201f0c3651976e76274801a3ec0cdcb1a7c0a10f8464",
+                     "size":  51860779,
                      "urls":  [
-                                  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-12/client-patch.zip"
+                                  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-13/client-patch.zip"
                               ]
                  }
 }
