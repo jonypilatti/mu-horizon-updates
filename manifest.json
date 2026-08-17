@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  11,
+    "patch":  12,
     "minLauncherVersion":  "1.1.0",
-    "releasedAt":  "2026-08-17T18:52:15.2853361Z",
-    "notes":  "Upgrade patch 11",
+    "releasedAt":  "2026-08-17T20:26:13.8996599Z",
+    "notes":  "Upgrade patch 12",
     "connection":  {
                        "serverIp":  "100.68.150.63",
                        "serverPort":  44406
                    },
     "fullZip":  {
                     "url":  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-full.zip",
-                    "sha256":  "7b0e3c892524cd114659c13999c0aeb40ed1e5749e15d4b7cd7e191f3db6aac2",
-                    "size":  864503606,
+                    "sha256":  "e1ac00bba480e8563395d632aa876802a1339d591a443aa7201f2916a067361f",
+                    "size":  864578696,
                     "urls":  [
-                                 "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-full.zip"
+                                 "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-12/client-full.zip"
                              ]
                 },
     "files":  [
@@ -29,8 +29,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "52e768578cb1d1df1cbb3f6b83cf53cce3e4be8c99362bc1c4d30f05d424967b",
-                      "size":  10869248
+                      "sha256":  "580ca760c46f29e243d19f56684cfef5e37eca0f9180c10c6a2b9fbf46e2a370",
+                      "size":  10866688
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -50,10 +50,10 @@
               ],
     "patchZip":  {
                      "url":  "https://desktop-8864rkm.taildaa6cc.ts.net/updates/client-patch.zip",
-                     "sha256":  "e41c9f03a4a7d1e5e908fe14d019f1133f929ec59a9bac8663e746abcc411683",
-                     "size":  4130959,
+                     "sha256":  "bd79d08db2f89faa9929fede83e710f07348b0cf7ab37d920f5466f4e2e0831b",
+                     "size":  5984034,
                      "urls":  [
-                                  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-11/client-patch.zip"
+                                  "https://github.com/jonypilatti/mu-horizon-updates/releases/download/client-1-12/client-patch.zip"
                               ]
                  }
 }
