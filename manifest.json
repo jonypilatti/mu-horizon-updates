@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  17,
+    "patch":  18,
     "minLauncherVersion":  "1.6.0",
-    "releasedAt":  "2026-08-20T21:30:50.1873192Z",
-    "notes":  "Upgrade patch 17",
+    "releasedAt":  "2026-08-20T22:48:29.4805094Z",
+    "notes":  "Upgrade patch 18",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/80262628b6021212cd2577c5b782585122bbfb648edf78f23d3e5238b709dca4.zip",
-                    "sha256":  "80262628b6021212cd2577c5b782585122bbfb648edf78f23d3e5238b709dca4",
-                    "size":  911631906,
+                    "url":  "https://files.mu-horizon.com/zips/79b9098175be9fb70dbb45c60f425ac5cee72650b96c162a33878caac6c6f114.zip",
+                    "sha256":  "79b9098175be9fb70dbb45c60f425ac5cee72650b96c162a33878caac6c6f114",
+                    "size":  917410505,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-17/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-18/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -71284,6 +71284,11 @@
                       "size":  351392
                   },
                   {
+                      "path":  "Data/Video/login.mp4",
+                      "sha256":  "8148126ec116d02b98f3eb168b0ea77ca82fed4b90b7b4899222ea6eb0b9955c",
+                      "size":  5783900
+                  },
+                  {
                       "path":  "Data/Video/news/index.json",
                       "sha256":  "0343639fac1511a32a4c9a92c7655a6e9f9ad3a600fc6f30b5bdad6806160a97",
                       "size":  18
@@ -77975,8 +77980,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "bc2194151f32f8d1872513c639d205cc2a344c979683e72480bb468e975d81d1",
-                      "size":  11140096
+                      "sha256":  "967e920f082c2a55a99af05dc078982e8ebfa5085f4b5d666e6627452c4d512e",
+                      "size":  11156480
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -77985,13 +77990,13 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "3285251675a4f21cfd261351c4a9b2181bdc9c50a843b8e1d91ea1fc8478f650",
+                      "sha256":  "6fd46ac2cd05963f71dce3b0a7b98dcb6affd41caad668d9e500270ff0052cf1",
                       "size":  52391940
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "84d0d6519bfbdbd38f4a98c31827c11bfa622ba2ee11c859066bf2cfc7099e2b",
-                      "size":  2698752
+                      "sha256":  "b2b6cc6febb9cc686a727c54ee720a7c4921a8d45296527df3c9570014b5b2b8",
+                      "size":  2699776
                   },
                   {
                       "path":  "ogg.dll",
@@ -78005,11 +78010,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/6eea87e0436c4a0e5be21cd01196f9aac5c0d12ff8f5424ad52be9725d920df5.zip",
-                     "sha256":  "6eea87e0436c4a0e5be21cd01196f9aac5c0d12ff8f5424ad52be9725d920df5",
-                     "size":  52345015,
+                     "url":  "https://files.mu-horizon.com/zips/852c40dc74e57ebf5461d43a4cf7ae03ca76bb05b9b0891c2f91a7247ff6adac.zip",
+                     "sha256":  "852c40dc74e57ebf5461d43a4cf7ae03ca76bb05b9b0891c2f91a7247ff6adac",
+                     "size":  58639104,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-17/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-18/client-patch.zip"
                               ]
                  }
 }
