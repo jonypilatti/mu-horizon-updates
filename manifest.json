@@ -2,16 +2,16 @@
     "generation":  1,
     "patch":  15,
     "minLauncherVersion":  "1.6.0",
-    "releasedAt":  "2026-08-19T21:00:57.9320895Z",
+    "releasedAt":  "2026-08-20T14:43:21.8249868Z",
     "notes":  "Upgrade patch 15",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/725e697539028ba46a2bad7f0e9590fca925bd098b52930012690c97c3288443.zip",
-                    "sha256":  "725e697539028ba46a2bad7f0e9590fca925bd098b52930012690c97c3288443",
-                    "size":  910217350,
+                    "url":  "https://files.mu-horizon.com/zips/0a4952469d7a790b1c1ac9003e11d98ba95b0a35171b8f43a319cfc21499c1aa.zip",
+                    "sha256":  "0a4952469d7a790b1c1ac9003e11d98ba95b0a35171b8f43a319cfc21499c1aa",
+                    "size":  910963290,
                     "urls":  [
                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-15/client-full.zip"
                              ]
@@ -77950,8 +77950,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "4f825541b5ad6e800c6db3d44c08391b99e9e47e4d834e8350a2f4e5a4ceeb4e",
-                      "size":  11118080
+                      "sha256":  "129305fbea8196a6c89470972c4c60031b34c38dc8223c5a9a424ab048a6b6e3",
+                      "size":  11126784
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -77960,8 +77960,8 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "095454414a813e247030940a2b1d8d03b85990800f8daeb32acb0c3b53c8a702",
-                      "size":  51634245
+                      "sha256":  "49fbcd3f8c7692eaabb91b126b40728c253e4c1355ef0483fe7ffdf4c0fd827c",
+                      "size":  52391940
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -77980,9 +77980,9 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/a9064fa1483ac61e57ebddc04429e55dc96f62eee1daa3f216f26dfa2e722e32.zip",
-                     "sha256":  "a9064fa1483ac61e57ebddc04429e55dc96f62eee1daa3f216f26dfa2e722e32",
-                     "size":  50983544,
+                     "url":  "https://files.mu-horizon.com/zips/f7a73d05c0348e7ea1d7af99f17526d62dac5d9bd71a5454453ed8d088a91117.zip",
+                     "sha256":  "f7a73d05c0348e7ea1d7af99f17526d62dac5d9bd71a5454453ed8d088a91117",
+                     "size":  51500385,
                      "urls":  [
                                   "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-15/client-patch.zip"
                               ]
