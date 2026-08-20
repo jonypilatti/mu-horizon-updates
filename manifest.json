@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  15,
+    "patch":  16,
     "minLauncherVersion":  "1.6.0",
-    "releasedAt":  "2026-08-20T14:43:21.8249868Z",
-    "notes":  "Upgrade patch 15",
+    "releasedAt":  "2026-08-20T18:54:54.3974538Z",
+    "notes":  "Upgrade patch 16",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/0a4952469d7a790b1c1ac9003e11d98ba95b0a35171b8f43a319cfc21499c1aa.zip",
-                    "sha256":  "0a4952469d7a790b1c1ac9003e11d98ba95b0a35171b8f43a319cfc21499c1aa",
-                    "size":  910963290,
+                    "url":  "https://files.mu-horizon.com/zips/4269898806177b59b401e0469804fd53e6f6aaf2ff043e64754a6a613f20b7fa.zip",
+                    "sha256":  "4269898806177b59b401e0469804fd53e6f6aaf2ff043e64754a6a613f20b7fa",
+                    "size":  911014383,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-15/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-16/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -1684,6 +1684,21 @@
                       "size":  186
                   },
                   {
+                      "path":  "Data/InGameShopBanner/583.2026.001/IBSBanner.txt",
+                      "sha256":  "6d45bd5ea1a35f7298f7263e725db911423a243c8c716677cec37e6dd37f07fc",
+                      "size":  107
+                  },
+                  {
+                      "path":  "Data/InGameShopBanner/583.2026.001/more-than-a-game.jpg",
+                      "sha256":  "a4f1e4623bfb2b1353e00111f189bb7686535e3b7a0bf9f2443ba2bfed4a16ec",
+                      "size":  6985
+                  },
+                  {
+                      "path":  "Data/InGameShopBanner/583.2026.001/more-than-a-game.OZJ",
+                      "sha256":  "85ea5c49e9872e0bcc77ad88b8ec1ec363ec9c79806bf9051b616776232570f2",
+                      "size":  7009
+                  },
+                  {
                       "path":  "Data/InGameShopScript/512.2011.006.rar",
                       "sha256":  "8214e0619dc1c3e2fe56af009b05832c280e7257d4f3c693b0e02e1005b90cf1",
                       "size":  11654
@@ -2575,8 +2590,8 @@
                   },
                   {
                       "path":  "Data/Interface/InGameShop/ingame_banner.OZJ",
-                      "sha256":  "e5b8f38324c4ac349fd4d63c3c51d7635b0058d52dfbedfcc3b2d87a1f4ad00c",
-                      "size":  11259
+                      "sha256":  "ba818090aac02f65ab824344aca28396babbcf57217658b35cb4768a71a3841f",
+                      "size":  50134
                   },
                   {
                       "path":  "Data/Interface/InGameShop/ingame_Box.OZT",
@@ -77950,8 +77965,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "129305fbea8196a6c89470972c4c60031b34c38dc8223c5a9a424ab048a6b6e3",
-                      "size":  11126784
+                      "sha256":  "5e1c1ea3c17dfaaf2acdff394c345e9b83ea1e528e498448d2339c0a2775f77d",
+                      "size":  11114496
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -77960,7 +77975,7 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "49fbcd3f8c7692eaabb91b126b40728c253e4c1355ef0483fe7ffdf4c0fd827c",
+                      "sha256":  "1f07a41766c4c3f675190f6b91f4d586919c959f2db1ca15b5465b93e2780bf2",
                       "size":  52391940
                   },
                   {
@@ -77980,11 +77995,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/f7a73d05c0348e7ea1d7af99f17526d62dac5d9bd71a5454453ed8d088a91117.zip",
-                     "sha256":  "f7a73d05c0348e7ea1d7af99f17526d62dac5d9bd71a5454453ed8d088a91117",
-                     "size":  51500385,
+                     "url":  "https://files.mu-horizon.com/zips/e8c007c6dd1bd28f2898f19a5b30d56ca45f6c8831a693ef991710433bd8738d.zip",
+                     "sha256":  "e8c007c6dd1bd28f2898f19a5b30d56ca45f6c8831a693ef991710433bd8738d",
+                     "size":  51560825,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-15/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-16/client-patch.zip"
                               ]
                  }
 }
