@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  19,
+    "patch":  20,
     "minLauncherVersion":  "1.6.0",
-    "releasedAt":  "2026-08-21T13:45:09.2802174Z",
-    "notes":  "Upgrade patch 19",
+    "releasedAt":  "2026-08-21T14:52:57.2614025Z",
+    "notes":  "Upgrade patch 20",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/2c9dfa9796a1165503f1f4bfe9015439d507087d7c8e48bb59b14d8fc8ecf299.zip",
-                    "sha256":  "2c9dfa9796a1165503f1f4bfe9015439d507087d7c8e48bb59b14d8fc8ecf299",
-                    "size":  922549123,
+                    "url":  "https://files.mu-horizon.com/zips/9f1fc3a9b1a5c12fc87a94561b10fe87bc1e68d8dc1c63ac861bd962bbc88285.zip",
+                    "sha256":  "9f1fc3a9b1a5c12fc87a94561b10fe87bc1e68d8dc1c63ac861bd962bbc88285",
+                    "size":  922549160,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-19/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-20/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -71290,8 +71290,8 @@
                   },
                   {
                       "path":  "Data/Video/news/index.json",
-                      "sha256":  "0343639fac1511a32a4c9a92c7655a6e9f9ad3a600fc6f30b5bdad6806160a97",
-                      "size":  18
+                      "sha256":  "7ddc0e1d0ef1cc780360c9d2c2ad8fc6047b680f8943effdb71684ca79a3065d",
+                      "size":  21
                   },
                   {
                       "path":  "Data/World1/angeflo_R.OZJ",
@@ -77980,7 +77980,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "967e920f082c2a55a99af05dc078982e8ebfa5085f4b5d666e6627452c4d512e",
+                      "sha256":  "2658920d0f61d0503fb3e938c4fd3bfdb18af29e30bedfb7f2c77dc27985098a",
                       "size":  11156480
                   },
                   {
@@ -77990,12 +77990,12 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "6fd46ac2cd05963f71dce3b0a7b98dcb6affd41caad668d9e500270ff0052cf1",
+                      "sha256":  "1efb357314cb62af60bd365c67b7160cda1b737948e05b579c7b8d286cb58abe",
                       "size":  52391940
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "b2b6cc6febb9cc686a727c54ee720a7c4921a8d45296527df3c9570014b5b2b8",
+                      "sha256":  "b27cb8ca6b0acf0142c36bd918f1b9ae99d46caa321c3ee176d1c7a555440f72",
                       "size":  2699776
                   },
                   {
@@ -78010,11 +78010,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/59d89ae070774370de96a4401017f320461348ed78335bbb00bbf023495121c3.zip",
-                     "sha256":  "59d89ae070774370de96a4401017f320461348ed78335bbb00bbf023495121c3",
-                     "size":  10912422,
+                     "url":  "https://files.mu-horizon.com/zips/b148eedfe98d566e39f8788d6178aae2a1e26c23ae95eebef0477c3120d2cc4a.zip",
+                     "sha256":  "b148eedfe98d566e39f8788d6178aae2a1e26c23ae95eebef0477c3120d2cc4a",
+                     "size":  52865507,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-19/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-20/client-patch.zip"
                               ]
                  }
 }
