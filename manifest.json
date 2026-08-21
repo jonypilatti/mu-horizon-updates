@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  21,
+    "patch":  22,
     "minLauncherVersion":  "1.7.0",
-    "releasedAt":  "2026-08-21T19:26:34.6335410Z",
-    "notes":  "Upgrade patch 21",
+    "releasedAt":  "2026-08-21T20:04:12.8905791Z",
+    "notes":  "Upgrade patch 22",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/9be30def65a2f91c5434b2cd06a8cdb11193d588f3e49fdb47c1a219f30566c8.zip",
-                    "sha256":  "9be30def65a2f91c5434b2cd06a8cdb11193d588f3e49fdb47c1a219f30566c8",
-                    "size":  931095230,
+                    "url":  "https://files.mu-horizon.com/zips/46af536b3fcbbe4058ead9c85c15b9ee98bfc4474cf9411cb629f0485bb3ae0c.zip",
+                    "sha256":  "46af536b3fcbbe4058ead9c85c15b9ee98bfc4474cf9411cb629f0485bb3ae0c",
+                    "size":  931095207,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-21/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-22/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -77980,7 +77980,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "729e032906d6c0f83b5497713d90550318d8c1eeab2a82a9740ef99e14d795a6",
+                      "sha256":  "526f051a8c22309b8b5fd4ebb03fadd6a6269b39c3c938ff0c68f90a906eddba",
                       "size":  11175424
                   },
                   {
@@ -78010,11 +78010,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/483793b9410fa7bf385b528acee1ee5750a22a3aad39438aa3c4d78d22e139a1.zip",
-                     "sha256":  "483793b9410fa7bf385b528acee1ee5750a22a3aad39438aa3c4d78d22e139a1",
-                     "size":  72323826,
+                     "url":  "https://files.mu-horizon.com/zips/1b5675edcfffce6e307fdaaf4082458f72c9f6b22fa466fc18c2523ae0269f21.zip",
+                     "sha256":  "1b5675edcfffce6e307fdaaf4082458f72c9f6b22fa466fc18c2523ae0269f21",
+                     "size":  4398902,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-21/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-22/client-patch.zip"
                               ]
                  }
 }
