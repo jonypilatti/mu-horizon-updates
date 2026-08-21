@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  18,
+    "patch":  19,
     "minLauncherVersion":  "1.6.0",
-    "releasedAt":  "2026-08-20T22:48:29.4805094Z",
-    "notes":  "Upgrade patch 18",
+    "releasedAt":  "2026-08-21T13:45:09.2802174Z",
+    "notes":  "Upgrade patch 19",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/79b9098175be9fb70dbb45c60f425ac5cee72650b96c162a33878caac6c6f114.zip",
-                    "sha256":  "79b9098175be9fb70dbb45c60f425ac5cee72650b96c162a33878caac6c6f114",
-                    "size":  917410505,
+                    "url":  "https://files.mu-horizon.com/zips/2c9dfa9796a1165503f1f4bfe9015439d507087d7c8e48bb59b14d8fc8ecf299.zip",
+                    "sha256":  "2c9dfa9796a1165503f1f4bfe9015439d507087d7c8e48bb59b14d8fc8ecf299",
+                    "size":  922549123,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-18/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-19/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -71285,8 +71285,8 @@
                   },
                   {
                       "path":  "Data/Video/login.mp4",
-                      "sha256":  "8148126ec116d02b98f3eb168b0ea77ca82fed4b90b7b4899222ea6eb0b9955c",
-                      "size":  5783900
+                      "sha256":  "a0b68ed8090fa8902a00759dc4dbc2ebf4ffc87e95d6d400ddc7fe775023bc82",
+                      "size":  10924145
                   },
                   {
                       "path":  "Data/Video/news/index.json",
@@ -78010,11 +78010,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/852c40dc74e57ebf5461d43a4cf7ae03ca76bb05b9b0891c2f91a7247ff6adac.zip",
-                     "sha256":  "852c40dc74e57ebf5461d43a4cf7ae03ca76bb05b9b0891c2f91a7247ff6adac",
-                     "size":  58639104,
+                     "url":  "https://files.mu-horizon.com/zips/59d89ae070774370de96a4401017f320461348ed78335bbb00bbf023495121c3.zip",
+                     "sha256":  "59d89ae070774370de96a4401017f320461348ed78335bbb00bbf023495121c3",
+                     "size":  10912422,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-18/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-19/client-patch.zip"
                               ]
                  }
 }
