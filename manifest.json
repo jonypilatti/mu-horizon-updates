@@ -1,19 +1,19 @@
 {
     "generation":  1,
-    "patch":  23,
+    "patch":  24,
     "minLauncherVersion":  "1.7.0",
-    "releasedAt":  "2026-08-21T21:16:22.3000185Z",
-    "notes":  "Upgrade patch 23",
+    "releasedAt":  "2026-08-22T04:01:30.3823003Z",
+    "notes":  "Upgrade patch 24",
     "connection":  {
                        "serverIp":  "play.mu-horizon.com",
                        "serverPort":  44406
                    },
     "fullZip":  {
-                    "url":  "https://files.mu-horizon.com/zips/4b6f6c24ad61de46e4bfb95c2341ec2e23cbb8aa5aebcbe0dbc38acadad4470e.zip",
-                    "sha256":  "4b6f6c24ad61de46e4bfb95c2341ec2e23cbb8aa5aebcbe0dbc38acadad4470e",
-                    "size":  931096454,
+                    "url":  "https://files.mu-horizon.com/zips/a338bd2241e352b7ade4880cb1bc02b88a519eab06d49a3eded1d66e8f0af1f3.zip",
+                    "sha256":  "a338bd2241e352b7ade4880cb1bc02b88a519eab06d49a3eded1d66e8f0af1f3",
+                    "size":  931313394,
                     "urls":  [
-                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-23/client-full.zip"
+                                 "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-24/client-full.zip"
                              ]
                 },
     "filesBaseUrl":  "https://files.mu-horizon.com/blobs",
@@ -1690,13 +1690,13 @@
                   },
                   {
                       "path":  "Data/InGameShopBanner/583.2026.001/more-than-a-game.jpg",
-                      "sha256":  "a4f1e4623bfb2b1353e00111f189bb7686535e3b7a0bf9f2443ba2bfed4a16ec",
-                      "size":  6985
+                      "sha256":  "731a8d6b77c4e568443bd81e7b55a1eb989e404c38d367478373a614671c51cf",
+                      "size":  60910
                   },
                   {
                       "path":  "Data/InGameShopBanner/583.2026.001/more-than-a-game.OZJ",
-                      "sha256":  "85ea5c49e9872e0bcc77ad88b8ec1ec363ec9c79806bf9051b616776232570f2",
-                      "size":  7009
+                      "sha256":  "5008e172360ea0aa9a4b86b35d5cb599e6a2ddad9b4b020ddc02537273710057",
+                      "size":  60934
                   },
                   {
                       "path":  "Data/InGameShopScript/512.2011.006.rar",
@@ -2594,9 +2594,14 @@
                       "size":  5328
                   },
                   {
+                      "path":  "Data/Interface/InGameShop/ingame_banner.jpg",
+                      "sha256":  "731a8d6b77c4e568443bd81e7b55a1eb989e404c38d367478373a614671c51cf",
+                      "size":  60910
+                  },
+                  {
                       "path":  "Data/Interface/InGameShop/ingame_banner.OZJ",
-                      "sha256":  "ba818090aac02f65ab824344aca28396babbcf57217658b35cb4768a71a3841f",
-                      "size":  50134
+                      "sha256":  "5008e172360ea0aa9a4b86b35d5cb599e6a2ddad9b4b020ddc02537273710057",
+                      "size":  60934
                   },
                   {
                       "path":  "Data/Interface/InGameShop/ingame_Box.OZT",
@@ -4054,6 +4059,11 @@
                       "size":  59888
                   },
                   {
+                      "path":  "Data/Interface/newui_grab_and_cripple.OZJ",
+                      "sha256":  "8d8ba094d9328692bdd5d951be7652fe83c5791c9818bb5d7e981439ccf57c95",
+                      "size":  16105
+                  },
+                  {
                       "path":  "Data/Interface/newui_guild_tab01.OZT",
                       "sha256":  "939d2c0a406d891aa6ce7a2c15cb2d6c4aef4299e8eb88a063e4a1d9486e9de2",
                       "size":  14656
@@ -4517,6 +4527,11 @@
                       "path":  "Data/Interface/newui_option_volume02.OZT",
                       "sha256":  "19ea36fae56fad20aef7bd22bcc5b19801e116092f97e5aff7525d392a7584e2",
                       "size":  7984
+                  },
+                  {
+                      "path":  "Data/Interface/newui_panic_escape.OZJ",
+                      "sha256":  "3e4d36f76e69dddafcdb487a07bc0afa1c8c1315e38e5b172c2fa07dc03cf37e",
+                      "size":  20262
                   },
                   {
                       "path":  "Data/Interface/newui_Party_Back.OZT",
@@ -77980,8 +77995,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "0397551c091e785b85a2955065e7b2c17f0b14aeb57d3a427f5d2d199617c1f5",
-                      "size":  11178496
+                      "sha256":  "549c0792548026e0a1f1dc886c08b5ab44fd20afcd4c15338a090168466374b2",
+                      "size":  11186176
                   },
                   {
                       "path":  "MuError.prev.log",
@@ -77990,7 +78005,7 @@
                   },
                   {
                       "path":  "MuHorizon.CrashReporter.exe",
-                      "sha256":  "577313e418a00923846daddcceb7e7b4ea85d42f37aa5b7c31239a428afa2b7a",
+                      "sha256":  "0acb32d86419c13a7ac7188726be11b0c85d02815a357f6289abe27b488c1c81",
                       "size":  52394500
                   },
                   {
@@ -78010,11 +78025,11 @@
                   }
               ],
     "patchZip":  {
-                     "url":  "https://files.mu-horizon.com/zips/131ccf054c25a384b04831bacb5c0323741d7cb0c109d421365d32d32bc331d9.zip",
-                     "sha256":  "131ccf054c25a384b04831bacb5c0323741d7cb0c109d421365d32d32bc331d9",
-                     "size":  51525359,
+                     "url":  "https://files.mu-horizon.com/zips/ebfa328f2af591510e822d9f16317a9ead03b7807d4eeec1f19ebcad54cc6176.zip",
+                     "sha256":  "ebfa328f2af591510e822d9f16317a9ead03b7807d4eeec1f19ebcad54cc6176",
+                     "size":  51806338,
                      "urls":  [
-                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-23/client-patch.zip"
+                                  "https://github.com/muhorizongoat-source/mu-horizon-updates/releases/download/client-1-24/client-patch.zip"
                               ]
                  }
 }
